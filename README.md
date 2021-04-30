@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @param901
 - 👀 I’m interested in coding and engineering
 - 🌱 I’m currently learning python
-- 📫 How to reach me =  bhartikeswani83@gmail.com here's my mail and @PARAM_CODING13 here's my instagram 
+- 📫 How to reach me =  bhartikeswani83@gmail.com here's my mail and https://www.instagram.com/param_coding13/ here's my instagram 
